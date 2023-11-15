@@ -186,3 +186,9 @@ footer nav ul {
 	margin: 2em
 }
 
+/*modification css */
+
+/**Suppression des points avant les boutons radio */
+#portfolio h2 form{
+ 	list-style-type: none;
+}
